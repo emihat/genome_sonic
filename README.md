@@ -1,2 +1,2 @@
 # genome_sonic
-# genome_sonic
+$ python sonic.py fasta-file
